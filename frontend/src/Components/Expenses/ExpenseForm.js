@@ -115,7 +115,10 @@ const ExpenseFormStyled = styled.form`
             width: 100%;
         }
     }
-
+  textarea:focus,
+  input:focus {
+    color: #ffffff;
+  }
     .selects{
         display: flex;
         justify-content: flex-end;
