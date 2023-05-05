@@ -101,8 +101,8 @@ function Form() {
         <Button
           name={"Add Income"}
           icon={plus}
-          bPad={".8rem 1.6rem"}
-          bRad={"30px"}
+          bPad={".8rem 1rem"}
+          bRad={"10px"}
           bg={"var(--color-accent"}
           color={"#fff"}
         />
